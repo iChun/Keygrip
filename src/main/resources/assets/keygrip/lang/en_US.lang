@@ -1,0 +1,51 @@
+window.timeline.title=Timeline
+window.timeline.newAction=New Action
+window.timeline.editAction=Edit Action
+window.timeline.delAction=Delete Action
+window.timeline.recAction=Toggle Record Action
+window.timeline.playScene=Play Scene
+window.timeline.stopScene=Stop Scene
+
+window.newScene.title=New Scene
+window.newScene.name=Scene Name
+
+window.editScene.title=Edit Scene
+window.editScene.position=Scene Position
+
+window.open.title=Open Scene
+
+window.notSaved.title=Scene not saved!
+window.notSaved.unsaved=Scene is not saved!
+window.notSaved.save=Would you like to save before closing?
+
+window.newAction.title=New Action
+window.newAction.name=Action Name
+window.newAction.entityType=Entity Type
+window.newAction.preCreate=Create Entity From Start
+window.newAction.persist=Persist Entity After Action
+window.newAction.playerName=Player Name (If Player)
+
+window.editAction.title=Edit Action
+window.editAction.actionPos=Action Timer Position
+window.editAction.actionOffset=Action Offset
+
+window.importAction.title=Import Action
+window.importAction.failed=Failed to import action
+
+window.recAction.noAction=Select an action to record first!
+
+window.recording=Recording
+
+window.playScene.failed=Failed to play scene.
+
+topdock.save=Save
+
+keygrip.config.prop.startStopRecord.name=Start/Stop Recording
+keygrip.config.prop.toggleSceneRecorder.name=Toggle Scene Editor
+keygrip.config.prop.playbackSceneWhileRecording.name=Playback Scene While Recording
+keygrip.config.prop.toggleScenePlayback.name=Toggle Scene Playback
+
+keygrip.config.prop.startStopRecord.comment=Key to toggle the start/stop of recording an action.
+keygrip.config.prop.toggleSceneRecorder.comment=Key to toggle showing of the scene editor.
+keygrip.config.prop.playbackSceneWhileRecording.comment=Playback Scene While Recording
+keygrip.config.prop.toggleScenePlayback.comment=Key to toggle the playback of the current opened scene.
