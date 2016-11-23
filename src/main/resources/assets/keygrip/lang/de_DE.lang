@@ -1,0 +1,51 @@
+window.timeline.title=Timeline
+window.timeline.newAction=Neue Aktion
+window.timeline.editAction=Aktion bearbeiten
+window.timeline.delAction=Aktion löschen
+window.timeline.recAction=Aufnahmemodus umschalten
+window.timeline.playScene=Szene starten
+window.timeline.stopScene=Szene stoppen
+
+window.newScene.title=Neue Szene
+window.newScene.name=Name der Szene
+
+window.editScene.title=Szene bearbeiten
+window.editScene.position=Position der Szene
+
+window.open.title=Szene öffnen
+
+window.notSaved.title=Szene nicht gespeichert!
+window.notSaved.unsaved=Die Szene wurde nicht gespeichert!
+window.notSaved.save=Möchtest du vor dem Schließen speichern?
+
+window.newAction.title=Neue Aktion
+window.newAction.name=Name der Aktion
+window.newAction.entityType=Type des Entitys
+window.newAction.preCreate=Entity von vorne erstellen
+window.newAction.persist=Entity nach Aktion weiterbestehen lassen
+window.newAction.playerName=Name des Spieles (Falls Spieler)
+
+window.editAction.title=Aktion bearbeiten
+window.editAction.actionPos=Position des Aktions-Timers
+window.editAction.actionOffset=Offset der Aktion
+
+window.importAction.title=Aktion importieren
+window.importAction.failed=Konnte die Aktion nicht importieren!
+
+window.recAction.noAction=Bitte zuerst ein Aktion zum Aufnehmen auswählen!
+
+window.recording=Nehme auf
+
+window.playScene.failed=Konnte Szene nicht wiedergeben.
+
+topdock.save=Save
+
+keygrip.config.prop.startStopRecord.name=Startet/Stoppt Aufnahme
+keygrip.config.prop.toggleSceneRecorder.name=Szenen Editormodus umschalten
+keygrip.config.prop.playbackSceneWhileRecording.name=Szene während der Aufnahme wiedergeben
+keygrip.config.prop.toggleScenePlayback.name=Szenen Wiedergabemodus umschalten
+
+keygrip.config.prop.startStopRecord.comment=Taste zum starten/stoppen der Aufnahme einer Aktion.
+keygrip.config.prop.toggleSceneRecorder.comment=Taste zum Umschalten der Sichtbarkeit des Szenen Editors.
+keygrip.config.prop.playbackSceneWhileRecording.comment=Szene während der Aufnahme wiedergeben
+keygrip.config.prop.toggleScenePlayback.comment=Taste um die Sichtbarkeit der Wiedergabe der gerade geöffneten Szene umzuschalten.
