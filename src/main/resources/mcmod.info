@@ -1,0 +1,21 @@
+[
+{
+  "modid" : "keygrip",
+  "name" : "Keygrip",
+  "version" : "${version}",
+  "url" : "http://ichun.me/mods/keygrip-mocap/",
+  "credits" : "",
+  "authorList": [
+    "iChun"
+  ],
+  "description": "Mocap mod allowing you to record and rerecord over your previous recordings to create a scene full of life and people. Full User Interface available.",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ],
+  "dependencies": [
+    "Forge", "iChunUtil"
+  ]
+}
+]
