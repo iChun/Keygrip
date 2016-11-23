@@ -15,13 +15,13 @@ public class Config extends ConfigBase
     public int playbackSceneWhileRecording = 1;
 
     @ConfigProp
-    public KeyBind toggleScenePlayback = new KeyBind(Keyboard.KEY_F9, false, false, false, false);
+    public KeyBind toggleScenePlayback = new KeyBind(Keyboard.KEY_F9);
 
     @ConfigProp
-    public KeyBind startStopRecord = new KeyBind(Keyboard.KEY_F10, false, false, false, false);
+    public KeyBind startStopRecord = new KeyBind(Keyboard.KEY_F10);
 
     @ConfigProp
-    public KeyBind toggleSceneRecorder = new KeyBind(Keyboard.KEY_F12, false, false, false, false);
+    public KeyBind toggleSceneRecorder = new KeyBind(Keyboard.KEY_F12);
 
     public Config(File file, String... unhide)
     {
